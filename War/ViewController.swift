@@ -142,8 +142,7 @@ class ViewController: UIViewController {
         warLabel.font = UIFont.boldSystemFont(ofSize: 22)
         
         customView?.addSubview(warLabel)
-        
-        print("TEST");
+
         
     }
 }
