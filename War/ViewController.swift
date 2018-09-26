@@ -143,7 +143,7 @@ class ViewController: UIViewController {
         
         customView?.addSubview(warLabel)
         
-        //Test
+        print("TEST");
         
     }
 }
